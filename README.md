@@ -33,4 +33,8 @@ Voici quelques exemples d'utilisation :
         <th>GTT_ADMIN_EMAIL</th>
         <td>Adresse email de l'administrateur(rice) du projet. Utilisée pour l'acquisition du certificat https</td>
     </tr>
+    <tr>
+        <th>GTT_GITHUB_SECRET</th>
+        <td>Secret du webhook, tel que défini sur Github</td>
+    </tr>
 </table>
